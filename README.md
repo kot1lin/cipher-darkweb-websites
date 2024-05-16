@@ -30,3 +30,22 @@ You can install these packages using pip:
 
 ```sh
 pip install colorama termcolor pyfiglet
+
+Usage
+Clone the repository:
+git clone https://github.com/yourusername/cipher-darkwebsearch.git
+cd cipher-darkwebsearch
+
+Run the program:
+python cipher_darkwebsearch.py
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+License
+This project is licensed under the MIT License.
+
+Disclaimer
+This project is for educational purposes only. Remember that 99% of hacking services on the dark web are scams.
+
+
