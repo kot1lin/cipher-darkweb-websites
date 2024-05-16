@@ -35,11 +35,10 @@ Usage
 Clone the repository:
 git clone https://github.com/yourusername/cipher-darkwebsearch.git
 cd cipher-darkwebsearch
-
 Run the program:
 python cipher_darkwebsearch.py
 
-## CONTRIBUTING
+CONTRIBUTING
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 License
