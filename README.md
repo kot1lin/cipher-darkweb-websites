@@ -39,7 +39,7 @@ cd cipher-darkwebsearch
 Run the program:
 python cipher_darkwebsearch.py
 
-Contributing
+CONTRIBUTING
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 License
